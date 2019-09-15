@@ -9,7 +9,7 @@ Program to convert a child's age from years to months
 
 def convert_to_months(x):
     months_years = 12
-    years_in_months = x*months_years
+    years_in_months = x * months_years
     return years_in_months
 
 
